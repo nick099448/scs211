@@ -22,7 +22,6 @@ $data  = mysqli_fetch_all($result, MYSQLI_ASSOC);
 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <title>Dashboard</title>
     <?php include('../../layouts/employee-style.php'); ?>
