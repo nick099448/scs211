@@ -153,7 +153,11 @@
             <div class="site-mobile-menu-body"></div>
         </div>
     </div>
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> 8096a752ecc468166ef5e6b40c7e169eb7b30b29
     <!-- start of content , see end in footer -->
     <div class="content">
         <div class="container">
@@ -205,7 +209,11 @@
         </div>
     </div>
     <!-- end of content, see start in header -->
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> 8096a752ecc468166ef5e6b40c7e169eb7b30b29
     <div class="container-fluid bg-light  p-5">
         <div class="container">
             <div class="row">
@@ -222,18 +230,30 @@
             </div>
         </div>
     </div>
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> 8096a752ecc468166ef5e6b40c7e169eb7b30b29
     <!-- Cookie Consent by https://www.cookiewow.com -->
 
     <!-- Load Facebook SDK for JavaScript -->
     <div id="fb-root"></div>
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> 8096a752ecc468166ef5e6b40c7e169eb7b30b29
 
     <!-- Your Chat Plugin code -->
     <div class="fb-customerchat" attribution=setup_tool page_id="2105621063039483" logged_in_greeting="สวัสดี ... เราสามารถช่วยเหลืออะไรคุณได้บ้าง บอกเราได้นะ?" logged_out_greeting="สวัสดี ... เราสามารถช่วยเหลืออะไรคุณได้บ้าง บอกเราได้นะ?">
     </div>
 
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> 8096a752ecc468166ef5e6b40c7e169eb7b30b29
 </body>
 
 </html>
